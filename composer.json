@@ -1,12 +1,12 @@
 {
-    "name": "evernote/evernote-cloud-sdk-php",
-    "description": "Evernote Cloud SDK for PHP",
+    "name": "bioshock/evernote-cloud-sdk-php",
+    "description": "Evernote Cloud SDK for PHP fork",
     "keywords": [
         "evernote",
         "api",
         "sdk"
     ],
-    "homepage": "https://github.com/evernote/evernote-cloud-sdk-php",
+    "homepage": "https://github.com/bioshock/evernote-cloud-sdk-php",
     "version": "2.0",
     "license": "Apache",
     "authors": [
