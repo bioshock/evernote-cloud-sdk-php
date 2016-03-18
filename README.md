@@ -14,7 +14,7 @@ Just run these two commands to install it:
 
 ``` bash
 $ curl -sS https://getcomposer.org/installer | php
-$ php composer.phar require bioshock/evernote-cloud-sdk-php dev-master
+$ php composer.phar require evernote/evernote-cloud-sdk-php dev-master
 ```
 
 Now you can add the autoloader, and you will have access to the library:
